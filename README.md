@@ -11,9 +11,13 @@ Easy tree data processing.
 ## CDN
 
 ``` js
-  <script src="https://unpkg.com/easydata-tree"></script>
+  <script src="https://unpkg.com/easydata-tree/dist/index.min.js"></script>
   <script>
-
+    new EasyTree({
+      parentId: 'pid',
+      label: 'name',
+      children: 'child'
+    })
   </script>
 ```
 
