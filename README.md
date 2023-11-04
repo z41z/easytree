@@ -14,6 +14,7 @@ Easy tree data processing.
   <script src="https://unpkg.com/easydata-tree/dist/index.min.js"></script>
   <script>
     new EasyTree({
+      id: 'id',
       parentId: 'pid',
       label: 'name',
       children: 'child'
@@ -26,6 +27,7 @@ Easy tree data processing.
 ``` js
 const EasyTree = require("easydata-tree")
 new EasyTree({
+  id: 'id',
   parentId: 'pid',
   label: 'name',
   children: 'child'

@@ -1,6 +1,6 @@
 {
   "name": "easydata-tree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy tree data processing.",
   "main": "index.js",
   "scripts": {
