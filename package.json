@@ -1,12 +1,14 @@
 {
-  "name": "easytree",
-  "version": "1.0.0",
+  "name": "easydata-tree",
+  "version": "1.0.1",
   "description": "Easy tree data processing.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production"
   },
   "keywords": [
+    "EasyDataTree",
+    "EasyData",
     "EasyTree",
     "treedata",
     "datatree"

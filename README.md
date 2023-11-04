@@ -5,13 +5,13 @@ Easy tree data processing.
 ## Install
 
 ``` node
-  npm i easytree //or yarn add easytree
+  npm i easydata-tree //or yarn add easydata-tree
 ```
 
 ## CDN
 
 ``` js
-  <script src="https://unpkg.com/easytree"></script>
+  <script src="https://unpkg.com/easydata-tree"></script>
   <script>
 
   </script>
@@ -20,7 +20,7 @@ Easy tree data processing.
 ### Usage
 
 ``` js
-const EasyTree = require("easytree")
+const EasyTree = require("easydata-tree")
 new EasyTree({
   parentId: 'pid',
   label: 'name',
